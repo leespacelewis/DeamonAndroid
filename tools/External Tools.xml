@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="javah" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Program Files\Android\Android Studio\jre\bin\javah.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Program Files/Android/Android Studio/jre/bin" />
+    </exec>
+  </tool>
+</toolSet>
